@@ -128,7 +128,7 @@ const Sidebar = () => {
                     ×
                     </span>
                 </button>
-                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2519.485860680031!2d4.305175315957057!3d50.840686567049836!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c3c6a820ee0037%3A0xe853844ed6eda45a!2sRue%20D%C3%A9mosth%C3%A8ne%20148%2C%201070%20Anderlecht!5e0!3m2!1sfr!2sbe!4v1669985739402!5m2!1sfr!2sbe" width="450" height="450" style={{ border: 0 }} loading="lazy"></iframe>
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2519.485860680031!2d4.305175315957057!3d50.840686567049836!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c3c6a820ee0037%3A0xe853844ed6eda45a!2sRue%20D%C3%A9mosth%C3%A8ne%20148%2C%201070%20Anderlecht!5e0!3m2!1sfr!2sbe!4v1669985739402!5m2!1sfr!2sbe" width="350" height="350" style={{ border: 0 }} loading="lazy"></iframe>
               </div>
             </div>
           </div>
