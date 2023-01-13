@@ -15,7 +15,7 @@ const Sidebar = () => {
         <span className="text-indigo-600">Memeti</span> <span className="text-blue-500">Senaid</span>
       </h3>
       <p className="px-2 py-1 my-3 border border-blue-500 rounded-full hover:bg-blue-200 dark:bg-dark-200 dark:bg-black-500" onClick={() => setShowModal(true)}>Développeur web</p>
-      <a className="flex items-center justify-center px-2 py-1 my-2 border border-blue-500 rounded-full cursor-pointer hover:bg-blue-200 dark:bg-dark-200 dark:bg-black-500" href="/images/cvSenaid.pdf" download="CV.pdf"><AiOutlineFilePdf className="w-6 h-6 text-blue-600" /> Télécharger le CV</a>
+      <a className="flex items-center justify-center px-2 py-1 my-2 border border-blue-500 rounded-full cursor-pointer hover:bg-blue-200 dark:bg-dark-200 dark:bg-black-500" href="/images/senaid-memeti.pdf" download="CV.pdf"><AiOutlineFilePdf className="w-6 h-6 text-blue-600" /> Télécharger le CV</a>
 
       <div className="py-4 my-5 bg-blue-200 dark:bg-dark-200 dark:bg-black-500" style={{ marginLeft: '-1rem', marginRight: '-1rem' }}>
         <div className="flex items-center justify-center space-x-2">
@@ -107,7 +107,7 @@ const Sidebar = () => {
                   >
                     Envoyer message
                   </button>
-                  <a className="px-6 py-3 mb-1 mr-1 text-sm font-bold text-white uppercase transition-all duration-150 ease-linear rounded shadow outline-none bg-gradient-to-r bg-emerald-500 active:bg-emerald-600 hover:shadow-lg focus:outline-none" href="/images/cvSenaid.pdf" download="CV.pdf"> Télécharger le CV</a>
+                  <a className="px-6 py-3 mb-1 mr-1 text-sm font-bold text-white uppercase transition-all duration-150 ease-linear rounded shadow outline-none bg-gradient-to-r bg-emerald-500 active:bg-emerald-600 hover:shadow-lg focus:outline-none" href="/images/senaid-memeti.pdf" download="CV.pdf"> Télécharger le CV</a>
                 </div>
               </div>
             </div>
