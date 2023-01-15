@@ -42,7 +42,7 @@ const Sidebar = () => {
         <a href="https://github.com/SenaidMemeti" target="_blank" rel="noopener noreferrer">
           <AiFillGithub className="w-8 h-8 cursor-pointer" />
         </a>
-        <a href="https://www.linkedin.com/in/sennaid-memeti-127ab4255/" target="_blank" rel="noopener noreferrer">
+        <a href="https://www.linkedin.com/in/senaid-memeti-127ab4255/" target="_blank" rel="noopener noreferrer">
           <AiFillLinkedin className="w-8 h-8 cursor-pointer" />
         </a>
       </div>
@@ -85,7 +85,7 @@ const Sidebar = () => {
                       <a href="https://github.com/SenaidMemeti" target="_blank" rel="noopener noreferrer">
                         <AiFillGithub className="w-8 h-8 cursor-pointer" />
                       </a>
-                      <a href="https://www.linkedin.com/in/sennaid-memeti-127ab4255/" target="_blank" rel="noopener noreferrer">
+                      <a href="https://www.linkedin.com/in/senaid-memeti-127ab4255/" target="_blank" rel="noopener noreferrer">
                         <AiFillLinkedin className="w-8 h-8 cursor-pointer" />
                       </a>
                     </div>
